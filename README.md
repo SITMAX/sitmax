@@ -6,8 +6,8 @@ Since 01/2010
 
 Team 2014
 
-Christian Betancourt\n
-John Castillo\n
-Gonzalo Cori\n
-Marcelo Montalvo\n
-Jose Barbato\n
+Christian Betancourt<br>
+John Castillo<br>
+Gonzalo Cori<br>
+Marcelo Montalvo<br>
+Jose Barbato<br>
