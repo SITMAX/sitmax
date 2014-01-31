@@ -1,13 +1,13 @@
-SITMAX Sistema de Informacion Catastral
+SITMAX Sistema de Información Catastral
 =======================================
 
 Projects of SITMAX
-Since 01/2014
+Since 01/2010
 
-Team
+Team 2014
 
-Christian Betancourt
-John Castillo
-Gonzalo Cori
-Marcelo Montalvo
-Jose Barbato
+Christian Betancourt\n
+John Castillo\n
+Gonzalo Cori\n
+Marcelo Montalvo\n
+Jose Barbato\n
