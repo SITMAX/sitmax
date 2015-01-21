@@ -1,5 +1,4 @@
-SITMAX Sistema de Información Territorial
-=========================================
+Sistema de Gestión Territorial Sitmax
+=====================================
 
-Projects of SITMAX
-Since 01/2010
+Modules in production
